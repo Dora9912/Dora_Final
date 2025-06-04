@@ -6,7 +6,7 @@ def experience_page():
     
     st.markdown("""
     ### Data Science Intern
-    **TechCorp Inc.** | *June 2021 - August 2021*
+    **Purcotton.** | *June 2021 - August 2021*
     
     - Analyzed customer data to identify patterns and trends using Python and SQL
     - Developed a machine learning model to predict customer churn with 85% accuracy
