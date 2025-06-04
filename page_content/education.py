@@ -4,19 +4,17 @@ def education_page():
     st.markdown("## Education")
     
     st.markdown("""
-    ### Master of Science in Data Science
-    **University of XYZ** | *September 2020 - May 2022*
-    
-    - GPA: 3.9/4.0
-    - Thesis: "Applying Machine Learning Techniques to Predict Customer Behavior in E-commerce"
-    - Relevant Coursework: Advanced Machine Learning, Deep Learning, Natural Language Processing, Data Visualization, Statistical Methods for Data Science, Big Data Analytics
-    
-    ### Bachelor of Science in Computer Science
-    **ABC University** | *September 2016 - May 2020*
+    ### Master of Science in Marketing
+    **Chinese University of HongKong** | *August 2024 - November 2025*
     
     - GPA: 3.7/4.0
-    - Graduated with Honors
-    - Relevant Coursework: Algorithms and Data Structures, Database Systems, Computer Networks, Operating Systems, Software Engineering, Web Development
+    - Relevant Coursework: Customer Analytics, Social Media Analytics, Marketing Research, Big Data Strategy
+    
+    ### Bachelor of Science in Exhibition and Economy Management
+    **Sichuan University** | *September 2018 - June 2022*
+    
+    - GPA: 3.52/4.0
+    - Relevant Coursework: Consumer Behavior, Exhibition Management, Marketing in Tourism, Project Management
     """)
     
     st.markdown("---")
