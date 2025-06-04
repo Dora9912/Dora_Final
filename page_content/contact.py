@@ -7,10 +7,10 @@ def contact_page():
     Feel free to reach out to me through any of the following channels:
     
     ### Direct Contact
-    - **Email**: [sarah.johnson@example.com](mailto:sarah.johnson@example.com)
+    - **Email**: [13779598117@163.com](mailto:13779598117@163.com)
     - **Phone**: +86 13779598117
-    - **LinkedIn**: [linkedin.com/in/sarahjohnson](https://linkedin.com/in/sarahjohnson)
-    - **GitHub**: [github.com/sarahjohnson](https://github.com/sarahjohnson)
+    - **Wechat**: 13779598117
+    - **Rednote**: [不爱吃豆](https://www.xiaohongshu.com/user/profile/5b0c042f11be1028a5ceba35)
     """)
     
     st.markdown("### Send Me a Message")
