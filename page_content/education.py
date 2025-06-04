@@ -24,8 +24,8 @@ def education_page():
     
     st.markdown("""
     ### Research on the influence factors of the distribution of travel time for the elderly
-    - As the group leader, I led my team finish the project "Research on the influence factors of the distribution of travel time for the elderly" and obtained Sichuan Provincial Project. 
-    - In this project, I am mainly responsible for 50% of the content of the declaration writing work, 50% of the literature collation work, 55% of the data analysis work and 90% of the project process promotion work.
+    - As the group leader, I led my team finish the project "Research on the influence factors of the distribution of travel time for the elderly" and obtained the Sichuan Provincial Project. 
+    - In this project, I was mainly responsible for 50% of the content of the declaration writing work, 50% of the literature collation work, 55% of the data analysis work and 90% of the project process promotion work.
     """)
     
     st.markdown("---") 
