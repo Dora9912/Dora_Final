@@ -8,7 +8,7 @@ def experience_page():
     ### Content Operations Intern
     **Purcotton Inc.** | *March 2025 - June 2025*
     
-    - Responsible for content review, publishing, and repurposing/remixing of种草 (grass-planting) videos on Taobao and JD platforms, optimizing posting schedules and topic selection strategies, improving the content review SOP (Standard Operating Procedure).
+    - Responsible for content review, publishing, and repurposing/remixing of videos on Taobao and JD platforms, optimizing posting schedules and topic selection strategies, improving the content review SOP (Standard Operating Procedure).
     - Responsible for organizing advertising data, analyzing video performance metrics, GMV, and ROI, conducting weekly data reviews, and setting goals for the next cycle.
     """)
     
@@ -18,7 +18,7 @@ def experience_page():
     
     - Identified 50+ high-potential KOLs/KOCs (audience match rate >85%), independently managed 20+ creators, and produced high-performing content with ROI>2.0 through data-driven optimization.
     - Processed and analyzed brand advertising data (500+ entries daily), optimized campaign strategies through competitor benchmarking, contributing to a 20% increase in ROI.
-    - Proficient in using Douyin's Star Graph (巨量星图) and Excel (VLOOKUP/pivot tables) for data cleansing and analysis.
+    - Proficient in using Douyin's Star Graph and Excel (VLOOKUP/pivot tables) for data cleansing and analysis.
     """)
     
     st.markdown("""
