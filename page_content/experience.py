@@ -5,23 +5,20 @@ def experience_page():
     st.markdown("## Professional Experience")
     
     st.markdown("""
-    ### Data Science Intern
-    **TechCorp Inc.** | *June 2021 - August 2021*
+    ### Content Operations Intern
+    **Purcotton Inc.** | *March 2025 - June 2025*
     
-    - Analyzed customer data to identify patterns and trends using Python and SQL
-    - Developed a machine learning model to predict customer churn with 85% accuracy
-    - Created interactive dashboards using Tableau to visualize key performance indicators
-    - Presented findings and recommendations to senior management
+    - Responsible for content review, publishing, and repurposing/remixing of种草 (grass-planting) videos on Taobao and JD platforms, optimizing posting schedules and topic selection strategies, improving the content review SOP (Standard Operating Procedure).
+    - Responsible for organizing advertising data, analyzing video performance metrics, GMV, and ROI, conducting weekly data reviews, and setting goals for the next cycle.
     """)
     
     st.markdown("""
-    ### Research Assistant
-    **University of XYZ, Department of Computer Science** | *January 2021 - May 2021*
+    ### KOL Operations Intern
+    **Fandao Inc.** | *April 2024 - July 2024*
     
-    - Assisted professor with research on natural language processing techniques
-    - Implemented and evaluated various machine learning algorithms for text classification
-    - Co-authored a paper that was accepted at a regional computer science conference
-    - Mentored undergraduate students on research methodologies and programming
+    - Identified 50+ high-potential KOLs/KOCs (audience match rate >85%), independently managed 20+ creators, and produced high-performing content with ROI>2.0 through data-driven optimization.
+    - Processed and analyzed brand advertising data (500+ entries daily), optimized campaign strategies through competitor benchmarking, contributing to a 20% increase in ROI.
+    - Proficient in using Douyin's Star Graph (巨量星图) and Excel (VLOOKUP/pivot tables) for data cleansing and analysis.
     """)
     
     st.markdown("""
