@@ -22,50 +22,13 @@ def experience_page():
     """)
     
     st.markdown("""
-    ### Software Development Intern
-    **InnovateTech Solutions** | *May 2020 - August 2020*
+    ### Marketing Intern
+    **Ecolab** | *October 2023 - March 2024*
     
-    - Developed and maintained web applications using Django and React
-    - Collaborated with a team of developers using Agile methodologies
-    - Implemented new features based on user feedback and requirements
-    - Participated in code reviews and testing procedures
+    - Independently designed and developed a new warehouse gift management system for the business division, covering the gift receiving module to achieve automatic and precise management and control of the warehouse.
+    - In the global sales assault activity, I was responsible for the early activity planning, the middle process control, and the late arrangement of background sales data and the production of promotional videos. The sales volume reached 1millionUSD in one week.
+    - Independently interviewed the relevant personnel of the skills competition, produced the bilingual magazine in Chinese and English after the competition, published it to the global head office, and the reading volume reached 5000+; 100% responsible for the International Women's Day interview activity, design and produce posters, which have been read more than 3000 times after publication.
     """)
-    
-    st.markdown("---")
-    
-    st.markdown("## Projects")
-    
-    projects = [
-        {
-            "title": "Customer Segmentation Analysis",
-            "description": "Used K-means clustering to segment customers based on purchasing behavior.",
-            "skills": ["Python", "scikit-learn", "Pandas", "Matplotlib"],
-            "outcome": "Identified 5 distinct customer segments that informed targeted marketing campaigns."
-        },
-        {
-            "title": "Predictive Maintenance System",
-            "description": "Developed a model to predict equipment failures before they occur.",
-            "skills": ["Python", "TensorFlow", "Time Series Analysis", "IoT"],
-            "outcome": "Reduced downtime by 23% and maintenance costs by 15%."
-        },
-        {
-            "title": "Natural Language Processing for Customer Support",
-            "description": "Created a text classification system to automatically categorize customer support tickets.",
-            "skills": ["Python", "NLTK", "spaCy", "BERT"],
-            "outcome": "Improved response time by 35% and increased customer satisfaction scores."
-        }
-    ]
-    
-    for i, project in enumerate(projects):
-        with st.expander(f"{project['title']}", expanded=i==0):
-            st.markdown(f"**Description:** {project['description']}")
-            st.markdown(f"**Skills Used:** {', '.join(project['skills'])}")
-            st.markdown(f"**Outcome:** {project['outcome']}")
-    
-    # Add the interactive visualization demo
-    with st.expander("Interactive Data Visualization Demo", expanded=False):
-        st.markdown("**Description:** An interactive demonstration of various data visualization techniques.")
-        display_interactive_chart()
     
     st.markdown("---")
     
@@ -76,12 +39,9 @@ def experience_page():
     with col1:
         st.markdown("""
         ### Technical Skills
-        - **Programming Languages:** Python, R, SQL, JavaScript
-        - **Machine Learning:** scikit-learn, TensorFlow, PyTorch
+        - **Programming Languages:** Python, R
         - **Data Processing:** Pandas, NumPy, PySpark
         - **Visualization:** Matplotlib, Seaborn, Tableau, PowerBI
-        - **Cloud Platforms:** AWS, Azure, Google Cloud
-        - **Web Development:** Django, Flask, React
         """)
         
     with col2:
