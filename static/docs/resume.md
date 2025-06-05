@@ -9,49 +9,30 @@ I'm currently studying for my master’s in marketing at CUHK, and I graduated f
 
 ## Work Experience
 **Content Operation Intern, Purcotton**
-- *June 2019 – Present*
-- Developed and maintained web applications using Python and JavaScript.
-- Improved application performance by 30% through code optimization.
-- Led a team of 5 developers, conducting code reviews and mentoring junior engineers.
-- Collaborated with cross-functional teams to define project requirements and deliverables.
+- *March 2025 – Present*
+- Responsible for content review, publishing, and repurposing/remixing of videos on Taobao and JD platforms, optimizing posting schedules and topic selection strategies, improving the content review SOP.
+- Responsible for organizing advertising data, analyzing video performance metrics, GMV, and ROI, conducting weekly data reviews, and setting goals for the next cycle.
 
-**Junior Software Developer, WebSolutions LLC**
-- *January 2017 – May 2019*
-- Assisted in the development of client-side applications using HTML, CSS, and JavaScript.
-- Participated in agile sprints and contributed to project planning and task estimation.
-- Implemented unit tests and conducted debugging to ensure code quality.
+**KOL Operation Intern, FandaoC**
+- *April 2024 – July 2024*
+- Identified 50+ high-potential KOLs/KOCs (audience match rate >85%), independently managed 20+ creators, and produced high-performing content with ROI>2.0 through data-driven optimization.
+- Processed and analyzed brand advertising data (500+ entries daily), optimized campaign strategies through competitor benchmarking, contributing to a 20% increase in ROI.
+- Proficient in using Douyin's Star Graph and Excel (VLOOKUP/pivot tables) for data cleansing and analysis.
 
 ## Education
-**Bachelor of Science in Computer Science**
-- University of Anytown
-- *Graduated: May 2016*
-- GPA: 3.8/4.0
+**Master of Science in Marketing**
+- Chinese University of HongKong
+- *Graduated: November 2025*
+- GPA: 3.7/4.0
 
 ## Skills
-- **Programming Languages:** Python, JavaScript, Java, C++
-- **Web Technologies:** HTML, CSS, React, Node.js, Django
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Jenkins, AWS
+- **Programming Languages:** Python,R
 - **Soft Skills:** Team Leadership, Project Management, Problem-Solving, Communication
 
-## Certifications
-- AWS Certified Solutions Architect
-- Certified Scrum Master
-
-## Projects
-**E-commerce Website**
-- Developed a full-stack e-commerce application using React and Django.
-- Integrated payment gateways and implemented user authentication.
-
-**Data Analysis Tool**
-- Created a Python-based tool for analyzing large datasets and visualizing results.
-- Used pandas and matplotlib libraries for data manipulation and plotting.
-
 ## Languages
-- **English:** Native
-- **Spanish:** Intermediate
+- **English:** Business
 
 ## Interests
-- Open-source contributions
-- Blogging about technology trends
+- Bakery
+- Swimming
 - Hiking and outdoor activities 
