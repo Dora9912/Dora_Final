@@ -28,7 +28,7 @@ def home_page():
     st.markdown(
         """
         ### About Me
-        Hi !  I'm Ding Ran. I'm currently studying for my Master's in Marketing at CUHK, and I graduated from Sichuan University majored in Exhibition Management.
+        Hi !  I'm Dora. I'm currently studying for my Master's in Marketing at CUHK, and I graduated from Sichuan University majored in Exhibition Management.
         
         Through my internships, I've gotten real hands-on experience in digital marketing and e-commerce.
 
