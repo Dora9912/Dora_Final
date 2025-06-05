@@ -9,7 +9,7 @@ def home_page():
         <h4>Ran Ding</h4>
         <p>Recent Master's Graduate in Marketing<br>
         Chinese University of Hong Kong<br>
-        H 7/H Tower 7 The Regent, Tai Po, HK<br>
+        Unit H 7/H Tower 7 The Regent, Tai Po, HK<br>
         <a href="mailto:13779598117@163.com">13779598117@163.com</a></p>
         """,
         unsafe_allow_html=True
