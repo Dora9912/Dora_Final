@@ -1,17 +1,14 @@
-# Jane Doe
+# Ran Ding
 
 ## Contact Information
-- **Email:** jane.doe@example.com
-- **Phone:** (123) 456-7890
-- **LinkedIn:** linkedin.com/in/janedoe
-- **GitHub:** github.com/janedoe
-- **Address:** 123 Main St, Anytown, USA
+- **Email:** 13779598117@163.com
+- **Phone:** (+86)13779598117
 
 ## Professional Summary
-Highly skilled software engineer with over 5 years of experience in developing scalable web applications. Proven ability to lead teams, manage projects, and improve software performance. Seeking a challenging role to utilize my technical expertise and problem-solving skills.
+I'm currently studying for my master’s in marketing at CUHK, and I graduated from Sichuan University majored in Exhibition Management. Through my internships, I've gotten real hands-on experience in digital marketing and e-commerce. Moving forward, I aspire to build a career in the e-commerce field and aim to achieve breakthroughs in this industry!
 
 ## Work Experience
-**Software Engineer, TechCorp Inc.**
+**Content Operation Intern, Purcotton**
 - *June 2019 – Present*
 - Developed and maintained web applications using Python and JavaScript.
 - Improved application performance by 30% through code optimization.
