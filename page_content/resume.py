@@ -27,69 +27,47 @@ def resume_page():
 
     st.header("Professional Summary")
     st.markdown("""
-    I have excellent educational background and internship experience, I believe that I can do my best in the position.
+    I'm currently studying for my master’s in marketing at CUHK, and I graduated from Sichuan University majored in Exhibition Management. Through my internships, I've gotten real hands-on experience in digital marketing and e-commerce. Moving forward, I aspire to build a career in the e-commerce field and aim to achieve breakthroughs in this industry!
     """)
 
-    st.header("Work Experience")
+    st.header("Internship Experience")
     st.markdown("""
-    **Software Engineer, TechCorp Inc.**
-    - *June 2019 – Present*
-    - Developed and maintained web applications using Python and JavaScript.
-    - Improved application performance by 30% through code optimization.
-    - Led a team of 5 developers, conducting code reviews and mentoring junior engineers.
-    - Collaborated with cross-functional teams to define project requirements and deliverables.
+    **Content Operations Intern, Purcotton Inc.**
+    - *March 2025 – Present*
+    - Responsible for content review, publishing, and repurposing/remixing of videos on Taobao and JD platforms, optimizing posting schedules and topic selection strategies, improving the content review SOP.
+    - Responsible for organizing advertising data, analyzing video performance metrics, GMV, and ROI, conducting weekly data reviews, and setting goals for the next cycle.
 
-    **Junior Software Developer, WebSolutions LLC**
-    - *January 2017 – May 2019*
-    - Assisted in the development of client-side applications using HTML, CSS, and JavaScript.
-    - Participated in agile sprints and contributed to project planning and task estimation.
-    - Implemented unit tests and conducted debugging to ensure code quality.
+    **KOL Operations Intern, Fandao**
+    - *April 2024 – August 2024*
+    - Identified 50+ high-potential KOLs/KOCs (audience match rate >85%), independently managed 20+ creators, and produced high-performing content with ROI>2.0 through data-driven optimization.
+    - Processed and analyzed brand advertising data (500+ entries daily), optimized campaign strategies through competitor benchmarking, contributing to a 20% increase in ROI.
+    - Proficient in using Douyin's Star Graph and Excel (VLOOKUP/pivot tables) for data cleansing and analysis.
     """)
 
     st.header("Education")
     st.markdown("""
-    **Bachelor of Science in Computer Science**
-    - University of Anytown
-    - *Graduated: May 2016*
-    - GPA: 3.8/4.0
+    **Master of Science in Marketing**
+    - Chinese University of HongKong
+    - *Graduated: November 2025*
+    - GPA: 3.7/4.0
     """)
 
     st.header("Skills")
     st.markdown("""
-    - **Programming Languages:** Python, JavaScript, Java, C++
-    - **Web Technologies:** HTML, CSS, React, Node.js, Django
-    - **Databases:** MySQL, PostgreSQL, MongoDB
-    - **Tools:** Git, Docker, Jenkins, AWS
+    - **Programming Languages:** Python,R
     - **Soft Skills:** Team Leadership, Project Management, Problem-Solving, Communication
     """)
 
-    st.header("Certifications")
-    st.markdown("""
-    - AWS Certified Solutions Architect
-    - Certified Scrum Master
-    """)
-
-    st.header("Projects")
-    st.markdown("""
-    **E-commerce Website**
-    - Developed a full-stack e-commerce application using React and Django.
-    - Integrated payment gateways and implemented user authentication.
-
-    **Data Analysis Tool**
-    - Created a Python-based tool for analyzing large datasets and visualizing results.
-    - Used pandas and matplotlib libraries for data manipulation and plotting.
-    """)
 
     st.header("Languages")
     st.markdown("""
-    - **English:** Native
-    - **Spanish:** Intermediate
+    - **English:** Business
     """)
 
     st.header("Interests")
     st.markdown("""
-    - Open-source contributions
-    - Blogging about technology trends
+    - Bakery
+    - Swimming
     - Hiking and outdoor activities
     """)
 
