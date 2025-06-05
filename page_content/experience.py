@@ -41,7 +41,6 @@ def experience_page():
         ### Technical Skills
         - **Programming Languages:** Python, R
         - **Data Processing:** Pandas, NumPy, PySpark
-        - **Visualization:** Matplotlib, Seaborn, Tableau, PowerBI
         """)
         
     with col2:
