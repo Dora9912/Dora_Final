@@ -10,7 +10,7 @@ def resume_page():
             PDFbyte = pdf_file.read()
 
         # Display the download button
-        st.download_button(label="Download Resume",
+        st.download_button(label="Download Chinese Resume",
                         data=PDFbyte,
                         file_name="Dora_Ding_Resume.pdf",
                         mime='application/octet-stream')
