@@ -22,7 +22,7 @@ def resume_page():
     st.header("Contact Information")
     st.markdown("""
     - **Email:** 13779598117@163.com
-    - **Phone:** +86 13779598117
+    - **Phone:** (+86)13779598117
     """)
 
     st.header("Professional Summary")
