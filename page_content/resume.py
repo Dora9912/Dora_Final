@@ -12,25 +12,22 @@ def resume_page():
         # Display the download button
         st.download_button(label="Download Resume",
                         data=PDFbyte,
-                        file_name="Jane_Doe_Resume.pdf",
+                        file_name="Dora_Ding_Resume.pdf",
                         mime='application/octet-stream')
     else:
         st.warning("Resume PDF file not found")
 
-    st.title("Jane Doe")
+    st.title("Ran Ding")
 
     st.header("Contact Information")
     st.markdown("""
-    - **Email:** jane.doe@example.com
-    - **Phone:** (123) 456-7890
-    - **LinkedIn:** [linkedin.com/in/janedoe](https://linkedin.com/in/janedoe)
-    - **GitHub:** [github.com/janedoe](https://github.com/janedoe)
-    - **Address:** 123 Main St, Anytown, USA
+    - **Email:** 13779598117@163.com
+    - **Phone:** +86 13779598117
     """)
 
     st.header("Professional Summary")
     st.markdown("""
-    Highly skilled software engineer with over 5 years of experience in developing scalable web applications. Proven ability to lead teams, manage projects, and improve software performance. Seeking a challenging role to utilize my technical expertise and problem-solving skills.
+    I have excellent educational background and internship experience, I believe that I can do my best in the position.
     """)
 
     st.header("Work Experience")
